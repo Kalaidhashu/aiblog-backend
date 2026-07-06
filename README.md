@@ -4,7 +4,7 @@ Backend API for the AI Blog Platform built using Node.js, Express.js, MongoDB, a
 
 ## 🚀 Live API
 
-https://your-backend-url.onrender.com
+https://aiblog-backend.onrender.com/api
 
 ---
 
@@ -162,4 +162,4 @@ Database is hosted on **MongoDB Atlas**
 
 ## 👨‍💻 Author
 
-Kalai Dharshini
+Kalaidharshini K
